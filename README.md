@@ -2,7 +2,7 @@
 
 ## O que está incluído
 - Rotina de segunda a sexta, com múltiplos grupos musculares por dia.
-- Exercícios personalizados, edição/exclusão e séries individuais com carga e repetições.
+- Exercícios personalizados, edição/exclusão e séries individuais com carga, repetições e caixa para marcar cada série como feita.
 - Iniciar/finalizar treino e histórico datado.
 - Estatísticas de volume, recordes pessoais e gráfico de cargas.
 - Cronômetro de descanso configurável.
